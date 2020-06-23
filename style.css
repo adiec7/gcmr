@@ -1,0 +1,15 @@
+body{
+    background-image: url(./img/pst2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+.player{
+    text-align: center;
+    margin: auto;
+    margin-top: 15rem;
+}
